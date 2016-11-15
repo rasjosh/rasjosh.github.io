@@ -1,0 +1,52 @@
+p {
+    color: aliceblue;
+    font-size: 21px;
+    text-align: center;
+    font-family: Noteworthy;
+}
+
+body {
+    background-color: orangered;
+}
+
+h1 {
+   background-color: darkblue;
+    font-family: Herculanum;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: aqua;
+}
+
+#Logo {
+    display:block;
+    margin:auto;
+    width: 20%;
+}
+
+h4 {
+    color: sandybrown;
+    font-family: cursive;
+    background-color: darkgreen;
+}
+
+h4 {
+  font-size: 24px;
+    line-height: 2.5;
+}
+
+h2 {
+    font-size: 32px;
+    color: aquamarine;
+    background-color: lightsalmon 
+}
+
+h6 {
+    font-size: 25px;
+    color: royalblue;
+    background-color: whitesmoke;
+    text-align: center;
+    
+}
